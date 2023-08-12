@@ -8,7 +8,7 @@ The projects are -
 **Oasis Infobyte** is a community of diverse people coming together with similar objectives and ultimate goals. It's all about creating opportunities for leadership development, learning, student engagement, and fostering shared interests. We develop enriching environments and experiences that promote students' knowledge and well-being.
 
 
-# Unemployment Analysis
+## Unemployment Analysis
 Analysing the dataset of unemploymnent rat eof India.
 
 Unemployment is measured by the unemployment rate of a country. We all have seen a strike in the uemployment during Coid-19 Lockdown.
@@ -21,7 +21,7 @@ So analysis of the rate of unemployment during the lockdown period is done udsin
 5) The an year wise analysis is also done.
 
 
-# Spam-Mail-Prediction
+## Spam-Mail-Prediction
 The trained model can predict the input mail is whether a spam or ham.
 
 We all have came across some spam mail which usually contains junk or unnecessary messages.
