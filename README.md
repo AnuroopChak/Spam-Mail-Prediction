@@ -4,6 +4,7 @@ It's a GitHub repository for the Oasis Infobyte Internship program. I have uploa
 The projects are -
 - Unemployment Analysis with Python
 - Email Spam Detection with Machine Learning
+- Car Price Prediction
 ### About the Company
 **Oasis Infobyte** is a community of diverse people coming together with similar objectives and ultimate goals. It's all about creating opportunities for leadership development, learning, student engagement, and fostering shared interests. We develop enriching environments and experiences that promote students' knowledge and well-being.
 
@@ -12,7 +13,7 @@ The projects are -
 Analysing the dataset of unemploymnent rat eof India.
 
 Unemployment is measured by the unemployment rate of a country. We all have seen a strike in the uemployment during Coid-19 Lockdown.
-So analysis of the rate of unemployment during the lockdown period is done udsing Python.
+So analysis of the rate of unemployment during the lockdown period is done using Python.
 
 1) The data is collected and extracted.
 2) The Dataset is then formatted.
@@ -34,3 +35,15 @@ So a machine learning model is built to classify the spam or ham emails.
 5) The model is then trained using train dataset.
 6) Then the test dataset is used to check whether the model is fit.
 7) Then a random mail is predicted by model if it is spam or ham.
+
+## Car Price Prediction
+The trained liner regression model is used to predict the price of different cars of various companies.
+
+The price of a car depends on a lot of factors like the goodwill of the brand of the car, features of the car, horsepower and the mileage it gives and many more. Car price prediction is one of the major research areas in machine learning. 
+
+1) Data collection and visualisation is done
+2) Then the data is cleaned and processed
+3) Infereences from the visualistion is made.
+4) Bivariate analysis is done.
+5) The ML Model is then build.
+6) The model is then trained.
